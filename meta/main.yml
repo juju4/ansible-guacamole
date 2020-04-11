@@ -1,6 +1,7 @@
 ---
 galaxy_info:
   author: Larry Smith Jr.
+  role_name: guacamole
   description: An Ansible role to install/configure Apache Guacamole
 
   license: MIT
